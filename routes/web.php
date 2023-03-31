@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+// biar ga error
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------

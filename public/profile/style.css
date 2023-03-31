@@ -1,0 +1,13 @@
+.navbar{
+    background-color: rgb(23, 23, 23);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.profileLogo{
+    margin: 15px;
+}
+
+.nav-item{
+    margin-right: 80px;
+}
+
