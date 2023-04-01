@@ -3,11 +3,80 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+ul{
+    list-style-type: none;
+}
+
 .profileLogo{
     margin: 15px;
+}
+
+.navbar li .active{
+    border-bottom: 4px #ff5fa2 solid;
 }
 
 .nav-item{
     margin-right: 80px;
 }
 
+.nav-item :hover{
+    color: #fccfa6;
+}
+
+#home .home-container{
+    width: 100%;
+    height: 100vh;
+    background: url("../profile/assets/thumbnail-home.jpg") top center;
+    background-size: cover;
+    padding: 0;
+}
+
+#home .title-home{
+    color: white;
+}
+
+#aboutMe .aboutMe-container{
+    background-color: white;
+    padding: 50px;
+}
+
+#aboutMe .title-am{
+    margin-top: 50px;
+    color: #ff5fa2;
+}
+
+#aboutMe .am{
+    margin-top: 70px;
+}
+
+#aboutMe .pic1{
+    margin-left: 30px;
+}
+
+.bio1{
+    margin-left: 30px;
+    padding: 0;
+}
+
+.bio2{
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.question ul{
+    line-height: 40px;
+}
+
+.question{
+    opacity: 85%;
+}
+
+.answer ul{
+    line-height: 40px;
+}
+
+.education-container{
+    padding-top: 50px;
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
