@@ -37,6 +37,10 @@
                     <a class="nav-link" href="#education">EDUCATION</a>
                 </li>
 
+                <li class="nav-item">
+                    <a class="nav-link" href="#skills">SKILLS</a>
+                </li>
+
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#portfolio" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         PORTFOLIO
@@ -199,6 +203,41 @@
                     </ul>
                </div>
 
+            </div>
+        </section>
+
+        {{-- =============SKILLS============= --}}
+        <section id="skills" class="skills">
+            <div class="skills-container container-fluid">
+                <h1 class="text-center fs-1 mb-5">SKILLS</h1>
+                <div class="progress-s row p-lg-3 text-dark">
+                    <div class="progress-col col-lg-6">
+                        <h4 class="text-light">Laravel</h4>
+                        <div class="progress text-center fw-bold" role="progressbar" aria-label="Laravel" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">
+                            <div class="progress-bar1" style="width: 15%">15%</div>
+                        </div>
+                        <br><br>
+
+                        <h4 class="text-light">Bootstrap</h4>
+                        <div class="progress text-center fw-bold" role="progressbar" aria-label="Bootstrap" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                            <div class="progress-bar2" style="width: 50%">50%</div>
+                        </div>
+                    </div>
+
+                    <div class="progress-col col-lg-6">
+                        <h4 class="text-light">HTML/CSS</h4>
+                        <div class="progress text-center fw-bold" role="progressbar" aria-label="Warning example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                            <div class="progress-bar3" style="width: 50%">75%</div>
+                          </div>
+                          <br><br>
+
+                          <h4 class="text-light">Python</h4>
+                          <div class="progress text-center fw-bold" role="progressbar" aria-label="Danger example" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">
+                            <div class="progress-bar4" style="width: 30%">30%</div>
+                          </div>
+                    </div>
+
+                </div>
             </div>
         </section>
 

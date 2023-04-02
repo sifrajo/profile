@@ -197,3 +197,28 @@
     color: white;
     border-radius: 18px;
 }
+
+.skills-container{
+    background-color: rgb(23, 23, 23);
+    color: #fccfa6;
+    padding: 80px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.progress{
+    height: 25px;
+}
+
+.progress-bar1{
+    background-color: #fdb3a5;
+}
+.progress-bar2{
+    background-color: 	#fe97a4;
+}
+.progress-bar3{
+    background-color: #fe7ba3;
+}
+.progress-bar4{
+    background-color: #ff5fa2;
+}
