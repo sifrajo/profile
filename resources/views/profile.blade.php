@@ -216,8 +216,8 @@
                         <div class="progress text-center fw-bold" role="progressbar" aria-label="Laravel" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">
                             <div class="progress-bar1" style="width: 15%">15%</div>
                         </div>
-                        <br>
-
+                        <br><br>
+                        
                         <h4 class="text-light">Bootstrap</h4>
                         <div class="progress text-center fw-bold" role="progressbar" aria-label="Bootstrap" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
                             <div class="progress-bar2" style="width: 50%">50%</div>
