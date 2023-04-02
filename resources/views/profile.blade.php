@@ -315,27 +315,27 @@
                 <h1 class="text-center fs-1 mb-5">CONTACT</h1>
 
                 <div class="email text-black p-3">
-                    <img src="profile/assets/email.png" alt="" width="80px" class="float-start me-3">
+                    <img src="profile/assets/email.png" alt="" width="60px" class="float-start me-3">
                     <div class="align-text-end d-inline-block">
-                        <h2>Email</h2>
-                        <p class="fs-5">jesseorlanda241102@gmail.com</p>
+                        <h3>Email</h3>
+                        <p class="mb-3">jesseorlanda241102@gmail.com</p>
                     </div>
                 </div>
 <br>
 
                 <div class="phone text-black p-3 ">
-                    <img src="profile/assets/phone.png" alt="" width="80px" class="float-start me-3">
+                    <img src="profile/assets/phone.png" alt="" width="60px" class="float-start me-3">
                     <div class="align-text-end d-inline-block">
-                        <h2>Phone</h2>
-                        <p class="fs-5">081228602233</p>
+                        <h3>Phone</h3>
+                        <p class="mb-3">081228602233</p>
                     </div>
                 </div>
 <br>
                 <div class="instagram text-black p-3">
-                    <img src="profile/assets/instagram.png" alt="" width="80px" class="float-start me-3">
+                    <img src="profile/assets/instagram.png" alt="" width="60px" class="float-start me-3">
                     <div class="align-text-end d-inline-block">
-                        <h2>Instagram</h2>
-                        <p class="fs-5">@joo_sfr</p>
+                        <h3>Instagram</h3>
+                        <p class="mb-3">@joo_sfr</p>
                     </div>
                 </div>
 
