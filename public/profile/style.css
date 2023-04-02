@@ -222,3 +222,37 @@
 .progress-bar4{
     background-color: #ff5fa2;
 }
+
+.portfolio-container{
+    padding: 50px;
+}
+
+.title-p{
+    color: #ff5fa2;
+}
+
+.category{
+    margin-left: 55px;
+}
+
+.photo-container{
+    margin: 10px;
+    padding: 0;
+}
+
+.design-container{
+    margin: 10px;
+    padding: 0;
+}
+.draw-container{
+    margin: 10px;
+    padding: 0;
+}
+
+.skills-container{
+    background-color: rgb(23, 23, 23);
+    color: #fccfa6;
+    padding: 80px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

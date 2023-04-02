@@ -47,14 +47,14 @@
                     </a>
                     {{-- ISINYA DROPDOWN --}}
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">PHOTOGRAPHY</a></li>
-                        <li><a class="dropdown-item" href="#">DESIGN</a></li>
-                        <li><a class="dropdown-item" href="#">DRAWING</a></li>
+                        <li><a class="dropdown-item" href="#photography">PHOTOGRAPHY</a></li>
+                        <li><a class="dropdown-item" href="#designing">DESIGN</a></li>
+                        <li><a class="dropdown-item" href="#drawing">DRAWING</a></li>
                     </ul>
                  </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">CONTACT</a>
+                    <a class="nav-link" href="#contact">CONTACT</a>
                 </li>
             </ul>
           </div>
@@ -216,7 +216,7 @@
                         <div class="progress text-center fw-bold" role="progressbar" aria-label="Laravel" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">
                             <div class="progress-bar1" style="width: 15%">15%</div>
                         </div>
-                        <br><br>
+                        <br>
 
                         <h4 class="text-light">Bootstrap</h4>
                         <div class="progress text-center fw-bold" role="progressbar" aria-label="Bootstrap" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
@@ -242,20 +242,82 @@
         </section>
 
         {{-- =============PORTOFOLIO============= --}}
-        <section id="portfolio" class="education">
-            <div container>
-                <h1>PORTFOLIO</h1>
+        <section id="portfolio" class="portofolio">
+            <div class="portfolio-container container-fluid">
+                <h1 class="title-p text-center fs-1 m-5">PORTFOLIO</h1>
 
+                <div class="portfolio-row row p-5 btn-light">
+                    <div class="category col">
+                        <a href="#photography" class="btn btn-lg p-4 ms-5 border border-3 border-dark">
+                            <img src="profile/assets/photography.png" alt="#portfolio" width= "200px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="#design" class="btn btn-lg p-4 ms-5 border border-3 border-dark">
+                            <img src="profile/assets/design.png" alt="#portfolio" width= "200px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="#drawing" class="btn btn-lg p-4 ms-5 border border-3 border-dark">
+                            <img src="profile/assets/drawing.png" alt="#portfolio" width= "200px"/>
+                        </a>
+                    </div>
+                </div>
             </div>
+
+            <section id="photography" class="photography">
+                <div class="photography-container container-fluid p-5 m-5">
+                    <h2>
+                        <u class="text-decoration-none" style="border-bottom: 4px solid #ff5fa2">Photography</u>
+                    </h2>
+
+                    <div class="photo-container container">
+                        <img src="profile/assets/photo1.jpg" alt="" width="400px" class="m-3">
+                        <img src="profile/assets/photo2.jpg" alt="" width="400px" class="m-3">
+                        <img src="profile/assets/photo3.jpg" alt="" width="400px" class="m-3">
+                    </div>
+                </div>
+            </section>
+
+            <section id="designing" class="designing">
+                <div class="designing-container container-fluid p-5 m-5">
+                    <h2>
+                        <u class="text-decoration-none" style="border-bottom: 4px solid #ff5fa2">Design</u>
+                    </h2>
+
+                    <div class="design-container container">
+                        <img src="profile/assets/design1.png" alt="" width="400px" class="m-3">
+                        <img src="profile/assets/design2.png" alt="" width="400px" class="m-3">
+                        <img src="profile/assets/design3.png" alt="" width="400px" class="m-3">
+                    </div>
+                </div>
+            </section>
+
+            <section id="drawing" class="drawing">
+                <div class="drawing-container container-fluid p-5 m-5">
+                    <h2>
+                        <u class="text-decoration-none" style="border-bottom: 4px solid #ff5fa2">Drawing</u>
+                    </h2>
+
+                    <div class="draw-container container">
+                        <img src="profile/assets/draw1.jpg" alt="" width="400px" class="m-3">
+                        <img src="profile/assets/draw2.jpg" alt="" width="400px" class="m-3">
+                        <img src="profile/assets/draw3.jpg" alt="" width="400px" class="m-3">
+                    </div>
+                </div>
+            </section>
+
         </section>
 
         {{-- =============CONTACT============= --}}
-        <section id="contact" class="education">
-            <div container>
-                <h1>CONTACT</h1>
+        <section id="contact" class="contact">
+            <div class="contact-container container-fluid">
+                <h1 class="text-center fs-1 mb-5">CONTACT</h1>
+
+
+                </div>
             </div>
         </section>
-
 
     </div>
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
