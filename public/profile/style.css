@@ -249,10 +249,25 @@
     padding: 0;
 }
 
-.skills-container{
+.contact-container{
     background-color: rgb(23, 23, 23);
     color: #fccfa6;
     padding: 80px;
     padding-top: 100px;
     padding-bottom: 100px;
+}
+
+.email{
+    background-color: #fccfa6;
+    width: 350px;
+}
+
+.phone{
+    background-color: #fccfa6;
+    width: 300px;
+}
+
+.instagram{
+    background-color: #fccfa6;
+    width: 300px;
 }
