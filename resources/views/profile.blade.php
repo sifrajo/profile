@@ -314,29 +314,33 @@
             <div class="contact-container container-fluid">
                 <h1 class="text-center fs-1 mb-5">CONTACT</h1>
 
-                <div class="email text-black p-3">
-                    <img src="profile/assets/email.png" alt="" width="60px" class="float-start me-3">
-                    <div class="align-text-end d-inline-block">
-                        <h3>Email</h3>
-                        <p class="mb-3">jesseorlanda241102@gmail.com</p>
+                <div class="row">
+                    <div class="email col text-black p-3">
+                        <img src="profile/assets/email.png" alt="" width="60px" class="float-start me-3">
+                        <div class="align-text-end d-inline-block">
+                            <h3>Email</h3>
+                            <p class="mb-2">jesseorlanda241102@gmail.com</p>
+                        </div>
                     </div>
-                </div>
-<br>
+                    <br>
 
-                <div class="phone text-black p-3 ">
-                    <img src="profile/assets/phone.png" alt="" width="60px" class="float-start me-3">
-                    <div class="align-text-end d-inline-block">
-                        <h3>Phone</h3>
-                        <p class="mb-3">081228602233</p>
+                    <div class="phone col text-black p-3">
+                        <img src="profile/assets/phone.png" alt="" width="60px" class="float-start me-3">
+                        <div class="align-text-end d-inline-block">
+                            <h3>Phone</h3>
+                            <p class="mb-2">081228602233</p>
+                        </div>
                     </div>
-                </div>
-<br>
-                <div class="instagram text-black p-3">
-                    <img src="profile/assets/instagram.png" alt="" width="60px" class="float-start me-3">
-                    <div class="align-text-end d-inline-block">
-                        <h3>Instagram</h3>
-                        <p class="mb-3">@joo_sfr</p>
+                    <br>
+
+                    <div class="instagram col text-black p-3">
+                        <img src="profile/assets/instagram.png" alt="" width="60px" class="float-start me-3">
+                        <div class="align-text-end d-inline-block">
+                            <h3>Instagram</h3>
+                            <p class="mb-3">@joo_sfr</p>
+                        </div>
                     </div>
+
                 </div>
 
             </div>
