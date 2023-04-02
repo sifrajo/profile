@@ -132,8 +132,9 @@
                             <div class="content">
                                 <h2>SD BPK Penabur Kebumen</h2>
                                 <h5>2009 - 2015</h5>
-                                <p>- Juara 3 FLS2N Membatik Tingkat Kabupaten</p>
+                                <p>- Juara Harapan 3 FLS2N Membatik Tingkat Kabupaten</p>
                                 <p>- Anggota Dokter Kecil</p>
+                                <p>- Juara 3 Lomba Matematika Tingkat Kabupaten</p>
                                 <p>- Peserta OSN Matematika Tingkat Kabupaten</p>
                                 <p>- Peserta Lomba Cerdas Cermat Tingkat Kabupaten</p>
                             </div>
