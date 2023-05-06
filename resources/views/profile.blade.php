@@ -17,12 +17,12 @@
                 <img src="profile/assets/logo.png" alt="" width="110px";>
             </a>
 
-            {{--Hamburger Button  --}}
+            {{-- Navbar --}}
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
 
-          {{-- Isiny Hamburger --}}
+          {{-- Isiny Navbar --}}
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto fw-light">
                 <li class="nav-item">
@@ -52,6 +52,10 @@
                         <li><a class="dropdown-item" href="#drawing">DRAWING</a></li>
                     </ul>
                  </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/products">PRODUCT</a>
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="#contact">CONTACT</a>
@@ -217,7 +221,7 @@
                             <div class="progress-bar1" style="width: 15%">15%</div>
                         </div>
                         <br><br>
-                        
+
                         <h4 class="text-light">Bootstrap</h4>
                         <div class="progress text-center fw-bold" role="progressbar" aria-label="Bootstrap" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
                             <div class="progress-bar2" style="width: 50%">50%</div>

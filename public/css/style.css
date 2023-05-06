@@ -1,0 +1,64 @@
+.navbar{
+    background-color: rgb(23, 23, 23);
+}
+
+.profileLogo{
+    margin: 15px;
+    margin-left: 15px;
+}
+
+.navbar li .active{
+    border-bottom: 3px #ff5fa2 solid;
+}
+
+.nav-item{
+    margin-right: 60px;
+}
+
+.nav-item :hover{
+    color: #fccfa6;
+}
+
+.products{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+
+.title{
+    margin-top: 0;
+    margin-left: 32vw;
+    font-size: 50px;
+}
+
+.product{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+
+.R{
+    padding: 2vw;
+    background-color: silver;
+    border-radius: 20px;
+}
+
+.SR{
+    padding: 2vw;
+    background-color: gold;
+    border-radius: 20px;
+}
+
+.SSR{
+    padding: 2vw;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.back{
+    padding: 1vw;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+.img{
+    width: 20vw;
+}
