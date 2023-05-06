@@ -17,9 +17,11 @@ File README ini akan berisi dokumentasi dari website profile.
 
 ### Portfolio
 Portfolio with dropdown navbar
+<br>
 ![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%201.gif)
 <br>
 Portfolio choose in page
+<br>
 ![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%202.gif)
 
 ### Products List and Product Detail
