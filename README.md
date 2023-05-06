@@ -1,5 +1,5 @@
 ## Welcome to My README Profile
-File README ini akan berisi okumentasi dari website profile.
+File README ini akan berisi dokumentasi dari website profile.
 
 
 ## Documentation
@@ -18,7 +18,7 @@ File README ini akan berisi okumentasi dari website profile.
 ### Portfolio
 Portfolio with dropdown navbar
 ![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%201.gif)
-
+<br>
 Portfolio choose in page
 ![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%202.gif)
 
