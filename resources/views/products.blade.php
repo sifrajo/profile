@@ -5,7 +5,7 @@
 @section('detail', 'Product Detail')
 
 @section('container')
-    <h1 class="title">PRODUCT LIST</h1>
+    <h1 class="title fs-1">PRODUCT LIST</h1>
     <br>
     <a href="/" class="back">Back</a>
     <br><br>
@@ -13,7 +13,7 @@
         @if ($product["status"] === "R")
             <div class="R">
                 <h1>
-                    <a href="/products/{{ $product["slug"] }}">{{ $product["name"] }}</a>
+                    <a class="product-title" href="/products/{{ $product["slug"] }}">{{ $product["name"] }}</a>
                 </h1>
                 <h3>{{ $product["price"] }}</h3>
                 <h3>{{ $product["status"] }}</h3>
@@ -23,7 +23,7 @@
         @elseif ($product["status"] === "SR")
             <div class="SR">
                 <h1>
-                    <a href="/products/{{ $product["slug"] }}">{{ $product["name"] }}</a>
+                    <a class="product-title" href="/products/{{ $product["slug"] }}">{{ $product["name"] }}</a>
                 </h1>
                 <h3>{{ $product["price"] }}</h3>
                 <h3>{{ $product["status"] }}</h3>
@@ -33,7 +33,7 @@
         @elseif ($product["status"] === "SSR")
             <div class="SSR">
                 <h1>
-                    <a href="/products/{{ $product["slug"] }}">{{ $product["name"] }}</a>
+                    <a class="product-title" href="/products/{{ $product["slug"] }}">{{ $product["name"] }}</a>
                 </h1>
                 <h3>{{ $product["price"] }}</h3>
                 <h3>{{ $product["status"] }}</h3>

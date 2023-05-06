@@ -2,6 +2,15 @@
     background-color: rgb(23, 23, 23);
 }
 
+.title{
+    color: #ff5fa2;
+}
+
+.product-title{
+    color: rgb(23, 23, 23);
+    font-style: none;
+}
+
 .profileLogo{
     margin: 15px;
     margin-left: 15px;
