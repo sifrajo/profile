@@ -4,19 +4,23 @@ File README ini akan berisi okumentasi dari website profile.
 
 ## Documentation
 ### Home
-![Home](https://github.com/sifrajo/profile/blob/main/documentation/Home.png)
+![Home](https://github.com/sifrajo/profile/blob/main/documentation/Home.gif)
 
 ### About Me
-![AboutMe](https://github.com/sifrajo/profile/blob/main/documentation/About%20Me.png)
+![AboutMe](https://github.com/sifrajo/profile/blob/main/documentation/About Me.gif)
 
 ## Education
-![Education](https://github.com/sifrajo/profile/blob/main/documentation/Education.jpg)
+![Education](https://github.com/sifrajo/profile/blob/main/documentation/Education.gif)
 
 ### Skills
-![Skills](https://github.com/sifrajo/profile/blob/main/documentation/Skills.png)
+![Skills](https://github.com/sifrajo/profile/blob/main/documentation/Skills.gif)
 
 ### Portfolio
-![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio.png)
+![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio 1.gif)
+![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio 2.gif)
+
+## Products List and Product Detail
+![Products](https://github.com/sifrajo/profile/blob/main/documentation/Products.gif)
 
 ### Contact
-![Contact](https://github.com/sifrajo/profile/blob/main/documentation/Contact.png)
+![Contact](https://github.com/sifrajo/profile/blob/main/documentation/Contact.gif)
