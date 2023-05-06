@@ -7,7 +7,7 @@ File README ini akan berisi okumentasi dari website profile.
 ![Home](https://github.com/sifrajo/profile/blob/main/documentation/Home.gif)
 
 ### About Me
-![AboutMe](https://github.com/sifrajo/profile/blob/main/documentation/About%Me.gif)
+![AboutMe](https://github.com/sifrajo/profile/blob/main/documentation/About%20Me.gif)
 
 ## Education
 ![Education](https://github.com/sifrajo/profile/blob/main/documentation/Education.gif)
@@ -16,8 +16,8 @@ File README ini akan berisi okumentasi dari website profile.
 ![Skills](https://github.com/sifrajo/profile/blob/main/documentation/Skills.gif)
 
 ### Portfolio
-![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%1.gif)
-![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%2.gif)
+![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%201.gif)
+![Portfolio](https://github.com/sifrajo/profile/blob/main/documentation/Portfolio%202.gif)
 
 ## Products List and Product Detail
 ![Products](https://github.com/sifrajo/profile/blob/main/documentation/Products.gif)
