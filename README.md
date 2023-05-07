@@ -31,7 +31,7 @@ Products List
 <br>
 Product Detail
 <br>
-![Products2](https://github.com/sifrajo/profile/blob/main/documentation/Products%20Detail.gif)
+![Products2](https://github.com/sifrajo/profile/blob/main/documentation/Product%20Detail.gif)
 
 ### Contact
 ![Contact](https://github.com/sifrajo/profile/blob/main/documentation/Contact.gif)
