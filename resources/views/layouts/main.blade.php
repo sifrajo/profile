@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="detail" content="@yield('detail')">
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
     <title> @yield('title') </title>
 </head>
 
@@ -16,7 +16,7 @@
         <div class="nav container-fluid">
             {{-- Logo --}}
             <a class="profileLogo" href="/">
-                <img src="profile/assets/logo.png" alt="" width="110px";>
+                <img src="/profile/assets/logo.png" alt="" width="110px";>
             </a>
 
             {{-- Navbar --}}
